@@ -1,5 +1,5 @@
 # Forza Horizon 5 User Profile Switcher
-A batch script to redirect the Forza Horizon 5 save and config directories per-user - allowing for separate saves with a single copy of the game
+[A batch script to redirect the Forza Horizon 5 save and config directories per-user - allowing for separate saves with a single copy of the game](https://github.com/Bladez1992/Forza-Horizon-5-User-Profile-Switcher/blob/main/FH5LAUNCH.bat)
  
 - If using the Microsoft Store, Steam, or Online-Fix versions of the game, the name in the bottom left on the main menu **will not change** as this is who owns the game/who is logged in to Steam, but the script will still function and let you have different saves for each Windows user.
  
