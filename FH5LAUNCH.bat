@@ -19,7 +19,7 @@ set "win_drive=%win_drive: =%"  :: Trim spaces
 
 echo Detected Windows Drive: %win_drive%
 
-:: Define paths relative to the script directory (Only applicable if using the CODEX or Online-Fix cracks, remove the source_file and destination_file lines here if using the Microsoft Store or Steam versions of the game)
+:: Define paths relative to the script directory (Remove the source_file and destination_file lines here if using the Microsoft Store, Steam, or Online-Fix versions of the game)
 set "username=%USERNAME%"
 set "source_file=%script_dir%\Profiles\%username%.ini"
 set "destination_file=%script_dir%\steam_emu.ini"
